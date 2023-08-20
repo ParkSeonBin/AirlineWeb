@@ -9,7 +9,9 @@ JSP + MySQL - '항공사 예매 사이트'
 
 ## ⚙️개발 환경
 JSP - eclipse
+
 WAS - Apache Tomcat
+
 Database - MySQL
 
 ## 📌주요 기능
